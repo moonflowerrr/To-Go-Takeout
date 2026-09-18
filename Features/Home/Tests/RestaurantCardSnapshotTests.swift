@@ -1,0 +1,1 @@
+// Snapshot test placeholder for the reusable restaurant card presentation.
