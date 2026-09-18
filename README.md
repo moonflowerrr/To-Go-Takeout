@@ -33,12 +33,19 @@ Styled with a soft Pastel Pink & Sage Green aesthetic, To-Go Takeout delivers a 
 📂 ─── PROJECT STRUCTURE ─── 📂
 
 To-Go Takeout/ 🌸
+
 ├── 🚀 App/                # App Entry Point & Root AppCoordinator
+
 ├── 🎨 Core/               # Coordinator Protocol, Design System & Colors
+
 ├── 📦 Models/             # Pure Swift Data Models (Restaurant, MenuItem, Cart)
+
 ├── 📑 MockData/           # Hardcoded Local Data & Simulated Service Feeds
+
 ├── ⚙️ Services/           # Observable CartManager & Location Helpers
+
 ├── 🧭 Navigation/         # Feature Modules (HomeBrowse, CartCheckout, OrderTracking, Account)
+
 └── 🖼️ Assets.xcassets/    # App Icons, Canva Category PNGs & Map Pins
 
 🌷 ─── GETTING STARTED ─── 🌷
